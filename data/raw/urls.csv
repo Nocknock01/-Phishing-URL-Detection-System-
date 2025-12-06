@@ -1,0 +1,5 @@
+﻿url,label
+http://example.com,0
+http://good-site.org/about,0
+http://malicious.example/login,1
+http://192.168.0.1/confirm,1
