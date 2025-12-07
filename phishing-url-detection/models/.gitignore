@@ -1,0 +1,14 @@
+# Python venv
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (raw)
+data/raw/
+data/processed/
+
+# Models if they get big
+models/
